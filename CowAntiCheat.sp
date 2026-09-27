@@ -41,7 +41,6 @@ public Plugin myinfo =
 
 bool sourcebanspp = false;
 bool sourcebans = false;
-
 #define JUMP_HISTORY 30
 
 int g_iCmdNum[MAXPLAYERS + 1];
