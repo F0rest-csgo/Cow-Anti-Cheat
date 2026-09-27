@@ -39,6 +39,7 @@ public Plugin myinfo =
 	url = ""
 };
 
+bool sourcebanspp = false;
 bool sourcebans = false;
 
 #define JUMP_HISTORY 30
